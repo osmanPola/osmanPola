@@ -17,8 +17,8 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmet123&show_icons=true&theme=tokyonight" alt="osmanPola" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet123&layout=compact&theme=tokyonight" alt="osmanPola" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osmanPola&show_icons=true&theme=tokyonight" alt="osmanPola" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanPola&layout=compact&theme=tokyonight" alt="osmanPola" />
 </p>
 
 ---
